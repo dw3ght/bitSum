@@ -1,0 +1,15 @@
+Coles-Dwight-assn04:
+total 64
+-rwxr-xr-x. 1 myid 13760 Oct  6 17:27 a.out
+-rw-r--r--. 1 myid   841 Oct  9 14:28 assn04answers.txt
+-rwxr-xr-x. 1 myid 13760 Oct  9 14:33 bitsum
+-rw-r--r--. 1 myid   579 Oct  6 17:24 bitsum.cpp
+-rw-r--r--. 1 myid   630 Oct  6 17:23 bitsum.cpp~
+-rw-r--r--. 1 myid    37 Oct  6 15:38 bitsum.h
+-rw-r--r--. 1 myid     0 Oct  6 15:36 bitsum.h~
+-rw-r--r--. 1 myid  4368 Oct  6 17:25 bitsum.o
+-rw-r--r--. 1 myid   122 Oct  6 15:39 main.cpp
+-rw-r--r--. 1 myid     0 Oct  6 15:36 main.cpp~
+-rw-r--r--. 1 myid   212 Oct  6 15:38 makefile
+-rw-r--r--. 1 myid     0 Oct  9 14:35 rec6550
+/home/myid/dsc83098/csci1730/Coles-Dwight-assn04:/home/myid/csci-1730

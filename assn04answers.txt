@@ -1,0 +1,25 @@
+1.	Var is a variable of type int
+2.	Variable var is of type int and cant be changed. 
+3.	Var is a pointer to int
+4.	Variable c is of type char. 
+5.	Message is a pointer to char. 
+6.	Message is the variable name of the array of unknown spaces of type
+	char
+7.	Message is the variable name of the array of type char with size of 30
+8.	Foo is a function with one parameter c which is type char that returns
+	void.
+9.	“minus” is a function with two parameters with (2 ints)
+10.	“op” is a function with 3 parameters 2 ints, a function with a pointer
+	with 2 parameters (2 ints) that returns void 
+
+
+1.	double * var
+2.	std::string var;
+3.	int values[50];
+4.	float * (*var);
+5.	void foo();
+6.	void foo(char,int,);
+7.	void (*funcptr)();
+8.	int (int &ref) (*funcptr);
+9.	void (int, *char a[])(*funcptr);
+10.	int (* foo(void(*handler)(int)));
